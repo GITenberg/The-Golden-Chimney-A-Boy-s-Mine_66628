@@ -1,11 +1,16 @@
 _repo: The-Golden-Chimney-A-Boy-s-Mine_66628
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66628-h/images/cover.jpg
 creator:
   author:
     agent_name: Gerberding, Elizabeth
     gutenberg_agent_id: '53888'
     url: http://www.gutenberg.org/2009/agents/53888
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66628#The-Golden-Chimney-A-Boy-s-Mine
 gutenberg_issued: '2021-10-29'
 identifiers:
   gutenberg: '66628'
